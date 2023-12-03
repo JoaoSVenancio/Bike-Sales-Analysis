@@ -4,6 +4,7 @@
 This repository contains the analysis of bike sales data obtained from the "Europe Bike Store Sales" dataset available on Kaggle. 
 
 Available on <https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales>
+
 The analysis has been visualized using Tableau, and provides an overview of the dashboards and visualizations created to gain insights into the bike sales data.
 
 ## Dataset Overview
