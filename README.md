@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the analysis of bike sales data obtained from the "Europe Bike Store Sales" dataset available on Kaggle. 
 
-Available on <https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales>
+Available on  [Europe Bike Store Sales](https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales)
 
 The analysis has been visualized using Tableau, and provides an overview of the dashboards and visualizations created to gain insights into the bike sales data.
 
@@ -29,16 +29,16 @@ The dataset consists of the following columns:
 - Revenue
 
 ## Dashboard Visualizations
-1. Top 10 Products Sold by Quantity (Bar Chart)
+### Top 10 Products Sold by Quantity (Bar Chart)
 The bar chart on the dashboard displays the top 10 products based on the quantity sold. This visualization provides a quick overview of the best-performing products in terms of sales volume.
 
-2. Product Category Sales by Gender (Column Chart)
+### Product Category Sales by Gender (Column Chart)
 The column chart illustrates the sales of different product categories based on customer gender. This visualization helps identify any gender-specific trends in product preferences and sales within the dataset.
 
-3. Sales by Age Group and Product SubCategory (Bubble Chart)
+### Sales by Age Group and Product SubCategory (Bubble Chart)
 The bubble chart visualizes sales data by age group and product subcategory. Each bubble represents a combination of age group and product subcategory, with bubble size indicating the sales volume. This chart allows for an exploration of sales patterns across different age groups and product types.
 
-4. Sales by Country (Map)
+### Sales by Country (Map)
 The map visualization showcases sales data geographically, providing insights into the distribution of sales across different countries. This helps identify regions with the highest sales and allows for a geographical analysis of the dataset.
 
 ## Filters (Right Panel)
@@ -49,3 +49,12 @@ The map visualization showcases sales data geographically, providing insights in
 - YoY% Change: Indicates the year-over-year percentage change in sales.
 - Revenue: Illustrates the total revenue generated.
 - Cost: Represents the total cost incurred.
+
+## Instructions for Tableau File
+To explore the visualizations in more detail, download the Tableau file (`Bike_Sales_Analysis.twbx`) from this repository.
+
+1. **Download Tableau**: If you don't have Tableau installed, download and install it from [Tableau Public](https://www.tableau.com/products/public/download).
+
+2. **Open Tableau Workbook**: Click on the `Bike_Sales_Analysis.twbx` file to open it in Tableau.
+
+3. **Explore Visualizations**: Once the Tableau workbook is open, you can explore and interact with the visualizations to gain deeper insights into the bike sales data.
