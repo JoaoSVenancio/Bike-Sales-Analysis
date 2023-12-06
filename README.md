@@ -50,8 +50,7 @@ The map visualization showcases sales data geographically, providing insights in
 - Revenue: Illustrates the total revenue generated.
 - Cost: Represents the total cost incurred.
 
-## Instructions for Tableau File
-To explore the visualizations in more detail, download the Tableau file (`Bike_Sales_Analysis.twbx`) from this repository.
+## Instructions
 
 1. **Download Tableau**: If you don't have Tableau installed, download and install it from [Tableau Public](https://www.tableau.com/products/public/download).
 
